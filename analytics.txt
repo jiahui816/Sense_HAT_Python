@@ -1,0 +1,14 @@
+In this assignment, the data visualization graph we used are bar charts and line plots.
+ Bar charts represent the humidity and line plots represent the temperature of each day.
+ Bar graphs, also known as column charts, use vertical or horizontal bars to represent data
+ along both an x-axis and a y-axis visually. Each bar represents one value. When the bars
+ are stacked next to one another, the viewer can compare the different bars, or values,
+ at a glance. A line graph is commonly used to display change over time as a series of
+ data points connected by straight line segments on two axes. The line graph therefore 
+helps to determine the relationship between two sets of values, with one data set always
+ being dependent on the other set. Line graphs are useful in that they show data variables
+ and trends very clearly and can help to make predictions about the results of data not yet
+ recorded. Among numerous data visualisation libraries, we chose MATPLOTLIB as our data 
+visualisation libraries, the reason why we chose is because the data we are presenting is
+ more towards a simple and a set of small data which MATPLOTLIB fulfil this requirement and
+ the code are more simple than the other. 
